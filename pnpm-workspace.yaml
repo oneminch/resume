@@ -4,4 +4,5 @@ onlyBuiltDependencies:
   - esbuild
 
 overrides:
+  brace-expansion@<5.0.5: '>=5.0.5'
   serialize-javascript@<=7.0.2: '>=7.0.3'
